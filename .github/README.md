@@ -154,6 +154,7 @@ We include a series of notebook+scripts for fine tuning the models.
 * [Fine tuning Gemma 3n on audio](/notebooks/fine_tune_gemma3n_on_audio.ipynb)
 * [Fine tuning Gemma 3n on images using TRL](/scripts/ft_gemma3n_image_trl.py)
 * [Fine tuning Gemma 3n on GUI Grounding](/notebooks/Gemma_3n_GUI_Finetune.ipynb)
+* [Fine tuning Gemma 3n on RAG](/feature/gemma-rag-demo/notebooks/Gemma_RAG.ipynb)
 
 #### Scripts
 
