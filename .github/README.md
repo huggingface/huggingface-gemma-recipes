@@ -148,7 +148,7 @@ We include a series of notebook+scripts for fine tuning the models.
 ### Gemma 3n
 
 #### RAG
-* [Fine tuning Gemma 3n on RAG](/feature/gemma-rag-demo/notebooks/Gemma_RAG.ipynb)
+* [Fine tuning Gemma 3n on RAG](/notebooks/Gemma_RAG.ipynb)
 
 #### Notebooks
 
