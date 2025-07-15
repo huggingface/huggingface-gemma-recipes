@@ -145,10 +145,7 @@ model_generation(model, messages)
 
 We include a series of notebook+scripts for fine tuning the models.
 
-### Gemma 3n
 
-#### RAG
-* [Fine tuning Gemma 3n on RAG](/notebooks/Gemma_RAG.ipynb)
 
 #### Notebooks
 
@@ -168,6 +165,12 @@ We include a series of notebook+scripts for fine tuning the models.
 * [Reinforement Learning (GRPO) on Gemma 3 with Unsloth and TRL](/notebooks/Gemma3_(1B)-GRPO.ipynb) <a href="https://colab.research.google.com/github/huggingface/huggingface-gemma-recipes/blob/main/notebooks/Gemma3_(1B)-GRPO.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 * [Vision fine tuning Gemma 3 4B with Unsloth](/notebooks/Gemma3_(4B)-Vision.ipynb) <a href="https://colab.research.google.com/github/huggingface/huggingface-gemma-recipes/blob/main/notebooks/Gemma3_(4B)-Vision.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 * [Conversational fine tuning Gemma 3 4B with Unsloth](/notebooks/Gemma3_(4B).ipynb) <a href="https://colab.research.google.com/github/huggingface/huggingface-gemma-recipes/blob/main/notebooks/Gemma3_(4B).ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+
+## RAG
+
+### Gemma 3n
+* [Fine tuning Gemma 3n on RAG](/notebooks/Gemma_RAG.ipynb)
+
 
 Before fine-tuning the model, ensure all dependencies are installed:
 
