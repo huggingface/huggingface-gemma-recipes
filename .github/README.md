@@ -147,6 +147,9 @@ We include a series of notebook+scripts for fine tuning the models.
 
 ### Gemma 3n
 
+#### RAG
+* [Fine tuning Gemma 3n on RAG](/feature/gemma-rag-demo/notebooks/Gemma_RAG.ipynb)
+
 #### Notebooks
 
 * [Fine tuning Gemma 3n 2B on free Colab T4](/notebooks/fine_tune_gemma3n_on_t4.ipynb) <a href="https://colab.research.google.com/github/huggingface/huggingface-gemma-recipes/blob/main/notebooks/fine_tune_gemma3n_on_t4.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
