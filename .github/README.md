@@ -147,7 +147,7 @@ model_generation(model, messages)
 
 #### Notebooks
 
-* [Function Calling with Gemma 3n: Local File Reader](/notebooks/Gemma_3n_Function_Calling_document_summarizer.ipynb)
+* [Function Calling with Gemma 3n: Local File Reader](/notebooks/Gemma_3n_Function_Calling_document_summarizer.ipynb)  <a href="https://colab.research.google.com/github/huggingface/huggingface-gemma-recipes/blob/main/notebooks/Gemma_3n_Function_Calling_document_summarizer.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 ## Fine Tuning
 
