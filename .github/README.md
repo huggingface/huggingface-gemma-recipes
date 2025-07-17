@@ -159,14 +159,16 @@ We include a series of notebook+scripts for fine tuning the models.
 
 * [Fine tuning Gemma 3n 2B on free Colab T4](/notebooks/fine_tune_gemma3n_on_t4.ipynb) <a href="https://colab.research.google.com/github/huggingface/huggingface-gemma-recipes/blob/main/notebooks/fine_tune_gemma3n_on_t4.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 * [Fine tuning Gemma 3n 4B with Unsloth on free Colab T4](/notebooks/Gemma3N_(4B)-Conversational.ipynb) <a href="https://colab.research.google.com/github/huggingface/huggingface-gemma-recipes/blob/main/notebooks/Gemma3N_(4B)-Conversational.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
-* [Fine tuning Gemma 3n on audio](/notebooks/fine_tune_gemma3n_on_audio.ipynb)
-* [Fine tuning Gemma 3n on images using TRL](/scripts/ft_gemma3n_image_trl.py)
-* [Fine tuning Gemma 3n on GUI Grounding](/notebooks/Gemma_3n_GUI_Finetune.ipynb)
+* [Fine tuning Gemma 3n on audio](/notebooks/fine_tune_gemma3n_on_audio.ipynb) <a href="https://colab.research.google.com/github/huggingface/huggingface-gemma-recipes/blob/main/notebooks/fine_tune_gemma3n_on_audio.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+* [Fine tuning Gemma 3n on GUI Grounding](/notebooks/Gemma_3n_GUI_Finetune.ipynb) <a href="https://colab.research.google.com/github/huggingface/huggingface-gemma-recipes/blob/main/notebooks/Gemma_3n_GUI_Finetune.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+* [Fine tuning Gemma3n on video (FineVideo)](/notebooks/Gemma3n_Fine_tuning_on_All_Modalities.ipynb) <a href="https://colab.research.google.com/github/huggingface/huggingface-gemma-recipes/blob/main/notebooks/Gemma3n_Fine_tuning_on_All_Modalities.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 #### Scripts
 
+* [Fine tuning Gemma 3n on images using TRL](/scripts/ft_gemma3n_image_trl.py)
 * [Fine tuning Gemma 3n on images (script)](/scripts/ft_gemma3n_image_vt.py)
 * [Fine tuning Gemma 3n on audio (script)](/scripts/ft_gemma3n_audio_vt.py)
+* [Fine tuning Gemma3n on video (FineVideo)](/scripts/gemma3n_fine_tuning_on_all_modalities.py)
 
 ### Gemma 3
   
@@ -177,7 +179,7 @@ We include a series of notebook+scripts for fine tuning the models.
 ## RAG
 
 ### Gemma 3n
-* [Retrieval-Augmented Generation with Gemma 3n](/notebooks/Gemma_RAG.ipynb)
+* [Retrieval-Augmented Generation with Gemma 3n](/notebooks/Gemma_RAG.ipynb) <a href="https://colab.research.google.com/github/huggingface/huggingface-gemma-recipes/blob/main/notebooks/Gemma_RAG.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 
 Before fine-tuning the model, ensure all dependencies are installed:
