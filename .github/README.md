@@ -174,6 +174,12 @@ We include a series of notebook+scripts for fine tuning the models.
 * [Vision fine tuning Gemma 3 4B with Unsloth](/notebooks/Gemma3_(4B)-Vision.ipynb) <a href="https://colab.research.google.com/github/huggingface/huggingface-gemma-recipes/blob/main/notebooks/Gemma3_(4B)-Vision.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 * [Conversational fine tuning Gemma 3 4B with Unsloth](/notebooks/Gemma3_(4B).ipynb) <a href="https://colab.research.google.com/github/huggingface/huggingface-gemma-recipes/blob/main/notebooks/Gemma3_(4B).ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
+## RAG
+
+### Gemma 3n
+* [Retrieval-Augmented Generation with Gemma 3n](/notebooks/Gemma_RAG.ipynb)
+
+
 Before fine-tuning the model, ensure all dependencies are installed:
 
 ```bash
