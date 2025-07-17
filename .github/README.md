@@ -169,7 +169,7 @@ We include a series of notebook+scripts for fine tuning the models.
 ## RAG
 
 ### Gemma 3n
-* [Fine tuning Gemma 3n on RAG](/notebooks/Gemma_RAG.ipynb)
+* [Retrieval-Augmented Generation with Gemma 3n](/notebooks/Gemma_RAG.ipynb)
 
 
 Before fine-tuning the model, ensure all dependencies are installed:
