@@ -5,13 +5,7 @@
 🤗💎 Welcome! This repository contains *minimal* recipes to get started quickly with the Gemma family of models.
 
 > [!Note]
-> Gemma 3n Conversational Fine tuning 2B on a Free Colab Notebook: <a href="https://colab.research.google.com/github/huggingface/huggingface-gemma-recipes/blob/main/notebooks/fine_tune_gemma3n_on_t4.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
->
-> Gemma 3n Conversational Fine tuning 4B on a Free Colab Notebook: <a href="https://colab.research.google.com/github/huggingface/huggingface-gemma-recipes/blob/main/notebooks/Gemma3N_(4B)-Conversational.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
->
-> Gemma 3n Multimodal Finetuning 2B/4B on a Free Colab Notebook: <a href="https://colab.research.google.com/github/huggingface/huggingface-gemma-recipes/blob/main/notebooks/gemma3n_multimodal_finetuning_on_rocov2_radiology.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
-> 
-> Multimodal inference using Gemma 3n via pipeline: <a href="https://colab.research.google.com/github/huggingface/huggingface-gemma-recipes/blob/main/notebooks/gemma3n_inference_via_pipeline.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+> Gemma 4 Multimodal inference (vision, video, audio, function calling, object detection): <a href="https://colab.research.google.com/github/huggingface/huggingface-gemma-recipes/blob/main/notebooks/Gemma4_(E2B)-Multimodal.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 
 ## Getting Started
@@ -136,6 +130,12 @@ model_generation(model, messages)
 ```
 
 ## Inference
+
+### Gemma 4
+
+#### Notebooks
+
+* [Multimodal inference with Gemma 4 (vision, video, audio, function calling, object detection)](/notebooks/Gemma4_(E2B)-Multimodal.ipynb) <a href="https://colab.research.google.com/github/huggingface/huggingface-gemma-recipes/blob/main/notebooks/Gemma4_(E2B)-Multimodal.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 ### Gemma 3n
 
