@@ -38,7 +38,7 @@ pip install "openenv-carla-env @ git+https://huggingface.co/spaces/sergiopaniego
 
 Usage (requires at least 2 CARLA Spaces, each supports only 1 concurrent connection):
 ```sh
-python examples/scripts/openenv/carla_vlm.py \
+python examples/grpo_carla/carla_vlm.py \
     --env-urls https://server1.hf.space https://server2.hf.space
 ```
 """
